@@ -1,4 +1,4 @@
 # FaCCM
-Codes for Factor Augmented Cohort Component Method
+Codes for Factor Augmented Cohort Component Method.
 
-Under construction
+Under construction.
